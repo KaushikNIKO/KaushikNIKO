@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaushikNIKO
 - 👀 I’m interested in learning new skills and technologies.
-- 🌱 I’m currently pursuing as a Android app developer and iOS 
+- 🌱 I’m currently pursuing as a Java app developer and Android developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me on Instagram:-kaushikNiko
 
